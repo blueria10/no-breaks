@@ -1,0 +1,8 @@
+{
+  "name": "NOBreaks",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fe42a130"
+}

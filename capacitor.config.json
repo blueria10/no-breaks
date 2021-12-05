@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "NOBreaks",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
